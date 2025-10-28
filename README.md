@@ -1,0 +1,2 @@
+# autorun
+dayz autorun script
